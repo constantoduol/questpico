@@ -1,0 +1,2 @@
+quest logo color : 1d8be8 font cafe nero
+pico color : e89e1d 

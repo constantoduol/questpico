@@ -1,0 +1,39 @@
+body, html {
+  height: 100%;
+  margin : 0px;
+  overflow-x : hidden;
+}
+
+li {
+  list-style: none;
+  line-height: 60px;
+
+}
+
+  .menu {
+    background : rgba(173, 216, 230, 0.8);
+    height: 100px;
+    position: fixed;
+    top:0;
+    z-index: 1000;
+    width: 100%;
+  }
+
+  
+
+   .card {
+      width: 100%;
+      height: 100%;
+      margin-top :20px;
+      border: 1px solid;
+      padding: 10px;
+      font-size: 60px;
+      text-align: center;
+      font-family: Roboto;
+      box-shadow: 0 0px 0px;
+      position: relative;
+      background-color: #FFF;
+      border: 1px solid #999;
+      box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);    
+  }
+       
